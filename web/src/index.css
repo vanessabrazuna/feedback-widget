@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-500: #8257e6;
+}
+
+:focus {
+  outline: transparent;
+}
+
+body {
+  @apply bg-[#09090A] text-zinc-100;
+}
