@@ -1,7 +1,11 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/forms";
+@plugin "tailwind-scrollbar";
 
 @theme {
+  --color-brand-300: #996dff;
   --color-brand-500: #8257e6;
+   --radius-md: 4px;
 }
 
 :focus {
