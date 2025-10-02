@@ -25,8 +25,7 @@ export function ScreenshotButton({
         backgroundColor: getComputedStyle(document.body).backgroundColor
       })
 
-      console.log(base64) // base64 da screenshot
-      onScreenshotTook(base64) 
+      onScreenshotTook(base64) // base64 da screenshot
     } catch (err) {
       console.error("Erro ao capturar tela:", err)
       onScreenshotTook(null) 
