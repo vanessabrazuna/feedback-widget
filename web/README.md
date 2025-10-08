@@ -1,4 +1,6 @@
-# Web
+# Feedbacks Widget
+
+![Feedbacks Widget](./.github/cover.png)
 
 Projeto web moderno construído com React, TypeScript, Vite e Tailwind CSS.
 
