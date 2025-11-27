@@ -1,1 +1,2 @@
-![Descrição](https://github.com/vanessabrazuna/feedback-widget/issues/1#issue-3673101659)
+![Descrição](https://imgur.com/a/Y4oMJqv#Q11E7W2)
+
